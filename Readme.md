@@ -87,7 +87,7 @@ To get started with this project on your local machine:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/nairaland-sentiment-pipeline.git
+   git clone https://github.com/Akangbe/Nairaland-Sentiment-Analysis-Pipeline
    cd nairaland-sentiment-pipeline
    ```
 
