@@ -16,8 +16,8 @@ async def main():
     scraper = NairalandScraper()
     processor = TextProcessor()
     mongo_handler = MongoHandler(
-        os.getenv("MONGO_URI"),  # Access MONGO_URI from .env
-        'nairaland_db'
+        os.getenv("MONGO_URI"),  
+        'Data-Engineerin-Proj'
     )
     
     sections = ["Politics", "Business", "Crime", "NYSC", "Education", "Food", "Romance"]
